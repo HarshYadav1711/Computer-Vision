@@ -1,0 +1,5 @@
+# Cricket biomechanics pipeline — free, open-source only
+# MediaPipe 0.10+ Tasks API (PoseLandmarker); model downloaded once to models/.
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
