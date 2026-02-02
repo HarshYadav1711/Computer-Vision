@@ -168,13 +168,3 @@ Optional:
 - `keypoints.csv` (and optionally `keypoints.json`).
 - Printed metrics and a short interpretation.
 
----
-
-## Deliverables Checklist
-
-- [x] README: approach, model choice, metrics, limitations, improvement plan.
-- [x] Skeleton overlay video (generated when you run the script).
-- [x] Keypoints CSV/JSON.
-- [x] Code: single script, no UI, readable and commented where it matters.
-
-Clarity over perfection; this is the kind of thing I’d hand to a reviewer and say: “This is how I’d start; here’s what I’d do next with more time and data.”
